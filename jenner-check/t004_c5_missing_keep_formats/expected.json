@@ -1,0 +1,19 @@
+{
+  "_captured_at": "2026-07-27T04:26:06.411659+00:00",
+  "_captured_run_id": "r_ac6d3c309165473c8e391200d9565a2a",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "NOTE: Wrote table1Cleaned (4 rows, 4 columns).",
+    "NOTE: Wrote readNameAndMarksOnly (5 rows, 2 columns).",
+    "NOTE: Wrote question4 (10 rows, 3 columns)."
+  ],
+  "log_does_not_contain": [
+    "ERROR:",
+    "[JENNER-ERROR"
+  ],
+  "diagnostics": {
+    "parse_warnings": [],
+    "runtime_warnings": []
+  }
+}

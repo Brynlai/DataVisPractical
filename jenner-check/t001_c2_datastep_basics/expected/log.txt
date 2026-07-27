@@ -1,0 +1,33 @@
+NOTE: Option OBS changed to 100.
+NOTE: DATA MobilePhones
+
+NOTE: Processing inline DATALINES (6 lines)
+
+NOTE: Read 6 rows from DATALINES.
+NOTE: Wrote MobilePhones (6 rows, 5 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: DATA Total
+
+
+NOTE: Read 6 rows from MobilePhones.
+NOTE: Wrote Total (6 rows, 6 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: PROC PRINT data=MobilePhones
+
+NOTE: PROC PRINT completed: 6 observations printed, 5 variables
+NOTE: DATA college_enrollment
+
+NOTE: Processing inline DATALINES (10 lines)
+
+NOTE: Read 10 rows from DATALINES.
+NOTE: Wrote college_enrollment (10 rows, 5 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: PROC PRINT data=college_enrollment
+
+NOTE: PROC PRINT completed: 10 observations printed, 5 variables

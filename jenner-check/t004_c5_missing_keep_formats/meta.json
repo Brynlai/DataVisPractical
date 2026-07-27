@@ -1,0 +1,7 @@
+{
+  "bundle": "t004_c5_missing_keep_formats",
+  "source_file": "C5.sas",
+  "source_blob_sha": "51eda4990caea57b5718ddc804db58893f3f40fc",
+  "source_commit": "dbe837049c898dadf011cb119961c71b78e887a4",
+  "notes": "Chapter 5: MISSING()-driven DELETE cleanup, SET append, KEEP subsetting, PUT with DOLLAR7.2, and IF/THEN pass/fail grading across several tables. Self-contained inline DATALINES; shipped verbatim with obs=100 autoexec."
+}

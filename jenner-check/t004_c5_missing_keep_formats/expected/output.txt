@@ -1,0 +1,69 @@
+
+  Obs       Name  Score1  Score2  Score3
+-----  ---------  ------  ------  ------
+    1  Sam            77      68      66
+    2  Deepanshu      50       .    89.4
+    3                  .       .       .
+    4  Shane          55      78      89
+    5  Roger          50      97      86
+    6                  .       .       .
+    7  Priya          88      68      93
+
+  Obs   Name  Score1  Score2  Score3
+-----  -----  ------  ------  ------
+    1  Sam        77      68      66
+    2  Shane      55      78      89
+    3  Roger      50      97      86
+    4  Priya      88      68      93
+
+  Obs  team  pos  rebounds  assists
+-----  ----  ---  --------  -------
+    1  A     G          10        8
+
+  Obs   Name  Score1  Score2  Score3  team  pos  rebounds  assists
+-----  -----  ------  ------  ------  ----  ---  --------  -------
+    1  Sam        77      68      66                    .        .
+    2  Shane      55      78      89                    .        .
+    3  Roger      50      97      86                    .        .
+    4  Priya      88      68      93                    .        .
+    5              .       .       .  A     G          10        8
+
+  Obs    NAME  CLASS  MARK  GENDER
+-----  ------  -----  ----  ------
+    1  John    Deo       .  75
+    2  Max     Ruin      .  85
+    3  Arnold  Three    55  male
+    4  Krish   Star      .  60
+    5  My      John      .  Five
+
+  Obs    NAME  MARK
+-----  ------  ----
+    1  John       .
+    2  Max        .
+    3  Arnold    55
+    4  Krish      .
+    5  My         .
+
+  Obs        Category  Amount
+-----  --------------  ------
+    1  Food                 .
+    2  Food                 .
+    3  Transportation       .
+    4  Utilities            .
+    5  Food                 .
+    6  Clothes              .
+    7  Electronics          .
+
+  Obs      name  results  Grade
+-----  --------  -------  -----
+    1  Coroyln        80  pass
+    2  Patricia       67  pass
+    3  Matilda        43  fail
+    4  Benita         46  fail
+    5  Dominica       86  pass
+    6  Shella         94  pass
+    7  Andy           52  pass
+    8  Consuela       53  pass
+    9  Roxane         50  pass
+   10  Keri           43  fail
+

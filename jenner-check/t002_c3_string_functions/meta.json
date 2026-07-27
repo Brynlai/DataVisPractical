@@ -1,0 +1,7 @@
+{
+  "bundle": "t002_c3_string_functions",
+  "source_file": "C3.sas",
+  "source_blob_sha": "a22e931e63764835c014287d55b852d0c18aa3c5",
+  "source_commit": "dbe837049c898dadf011cb119961c71b78e887a4",
+  "notes": "Chapter 3 string functions: COUNT, FIND, INDEX, COMPRESS, TRANWRD nested with PROPCASE/LOWCASE, and || concatenation across tasks1-tasks5. Self-contained inline text literals; shipped verbatim with obs=100 autoexec."
+}

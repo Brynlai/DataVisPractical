@@ -1,0 +1,107 @@
+NOTE: Option OBS changed to 100.
+NOTE: DATA table1
+
+NOTE: Processing inline DATALINES (7 lines)
+
+NOTE: Read 7 rows from DATALINES.
+NOTE: Wrote table1 (7 rows, 4 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: PROC PRINT data=table1
+
+NOTE: PROC PRINT completed: 7 observations printed, 4 variables
+NOTE: DATA table1Cleaned
+
+
+NOTE: Read 7 rows from table1.
+NOTE: Wrote table1Cleaned (4 rows, 4 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: PROC PRINT data=table1Cleaned
+
+NOTE: PROC PRINT completed: 4 observations printed, 4 variables
+NOTE: DATA table2
+
+NOTE: Processing inline DATALINES (5 lines)
+
+NOTE: Read 5 rows from DATALINES.
+NOTE: Wrote table2 (1 rows, 4 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: PROC PRINT data=table2
+
+NOTE: PROC PRINT completed: 1 observations printed, 4 variables
+NOTE: DATA joined1
+
+
+NOTE: Read 4 rows from table1Cleaned.
+NOTE: Read 1 rows from table2.
+NOTE: Wrote joined1 (5 rows, 8 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: PROC PRINT data=joined1
+
+NOTE: PROC PRINT completed: 5 observations printed, 8 variables
+NOTE: DATA originalTable
+
+NOTE: Processing inline DATALINES (5 lines)
+NOTE: Invalid data for MARK in line 1 12-15.
+RULE:     ----+----1----+----2----+----3
+1           John	Deo Four 75 female
+NOTE: Invalid data for MARK in line 2 12-16.
+RULE:     ----+----1----+----2----+----3
+2           Max	Ruin Three 85 male
+NOTE: Invalid data for MARK in line 4 14-17.
+RULE:     ----+----1----+----2----+----3
+4           Krish	Star Four 60 female
+NOTE: Invalid data for MARK in line 5 11-13.
+RULE:     ----+----1----+----2----+----3
+5           My	John	Rob Five 78 male
+
+NOTE: Read 5 rows from DATALINES.
+NOTE: Wrote originalTable (5 rows, 4 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: PROC PRINT data=originalTable
+
+NOTE: PROC PRINT completed: 5 observations printed, 4 variables
+NOTE: DATA readNameAndMarksOnly
+
+
+NOTE: Read 5 rows from originalTable.
+NOTE: Wrote readNameAndMarksOnly (5 rows, 2 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: PROC PRINT data=readNameAndMarksOnly
+
+NOTE: PROC PRINT completed: 5 observations printed, 2 variables
+NOTE: DATA changeFormats
+
+NOTE: Processing inline DATALINES (7 lines)
+
+NOTE: Read 7 rows from DATALINES.
+NOTE: Wrote changeFormats (7 rows, 2 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: PROC PRINT data=changeFormats
+
+NOTE: PROC PRINT completed: 7 observations printed, 2 variables
+NOTE: DATA question4
+
+NOTE: Processing inline DATALINES (10 lines)
+
+NOTE: Read 10 rows from DATALINES.
+NOTE: Wrote question4 (10 rows, 3 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: PROC PRINT data=question4
+
+NOTE: PROC PRINT completed: 10 observations printed, 3 variables

@@ -1,0 +1,7 @@
+{
+  "bundle": "t001_c2_datastep_basics",
+  "source_file": "C2.sas",
+  "source_blob_sha": "cf9aae9e0db5797767dbf5eae23946b6e0ad1a56",
+  "source_commit": "dbe837049c898dadf011cb119961c71b78e887a4",
+  "notes": "Chapter 2 DATA-step basics: builds MobilePhones (LENGTH + INPUT + DATALINES), a Total step, and college_enrollment, each with a titled PROC PRINT. Self-contained inline DATALINES; shipped verbatim, only an obs=100 autoexec added."
+}

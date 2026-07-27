@@ -1,0 +1,37 @@
+
+  Obs                                                                                                                                                         text  countwd
+-----  -----------------------------------------------------------------------------------------------------------------------------------------------------------  -------
+    1  I live in Malaysia. Malaysia is a beautiful country. There are
+many places to visit in Malaysia. There are different cultures
+of people living in Malaysia.        4
+
+  Obs                                                                                                                                                                          text  find  index
+-----  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------  ----  -----
+    1  I live in Malaysia. Malaysia is a beautiful country. There are
+many places to visit in Malaysia. There are different cultures
+of people living in Malaysia. Have a nice day.   157    157
+
+  Obs                      text               countwd
+-----  ------------------------  --------------------
+    1  I’m a good human Being    I’magoodhumanBeing
+
+  Obs                                                                                                                                                                                                                                              text  wordToProp                                                                                                                                                                                                                                        textlower1                                                                                                                                                                                                                               textremGirlovedash  wordToLowercase                                                                                                                                                                                                                                         textGirl
+-----  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  ----------  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  ---------------  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    1  This is an Emotional story about MIEKO. Mieko is a talented
+artist and CALLI-GRAPHER . Her hand is badly hurt during the
+bombings of the war. The scared little GIRL is sent to live with
+her grandparents in the countryside where it is safer.  MIEKO       This is an Emotional story about Mieko. Mieko is a talented
+artist and CALLI-GRAPHER . Her hand is badly hurt during the
+bombings of the war. The scared little GIRL is sent to live with
+her grandparents in the countryside where it is safer.  This is an Emotional story about Mieko. Mieko is a talented
+artist and CALLIGRAPHER . Her hand is badly hurt during the
+bombings of the war. The scared little GIRL is sent to live with
+her grandparents in the countryside where it is safer.  GIRL             This is an Emotional story about Mieko. Mieko is a talented
+artist and CALLIGRAPHER . Her hand is badly hurt during the
+bombings of the war. The scared little girl is sent to live with
+her grandparents in the countryside where it is safer.
+
+  Obs                    text
+-----  ----------------------
+    1  Good Luck In Your Exam
+

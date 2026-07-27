@@ -1,0 +1,79 @@
+NOTE: Option OBS changed to 100.
+NOTE: DATA dataset1
+
+NOTE: Processing inline DATALINES (7 lines)
+
+NOTE: Read 7 rows from DATALINES.
+NOTE: Wrote dataset1 (7 rows, 1 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: PROC PRINT data=dataset1
+
+NOTE: PROC PRINT completed: 7 observations printed, 1 variables
+NOTE: DATA dataset2
+
+NOTE: Processing inline DATALINES (11 lines)
+
+NOTE: Read 11 rows from DATALINES.
+NOTE: Wrote dataset2 (11 rows, 2 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: PROC PRINT data=dataset2
+
+NOTE: PROC PRINT completed: 11 observations printed, 2 variables
+NOTE: DATA combined
+
+
+NOTE: Read 7 rows from dataset1.
+NOTE: Read 11 rows from dataset2.
+NOTE: Wrote combined (18 rows, 3 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: PROC PRINT data=combined
+
+NOTE: PROC PRINT completed: 18 observations printed, 3 variables
+NOTE: DATA datasetabc
+
+NOTE: Processing inline DATALINES (2 lines)
+
+NOTE: Read 2 rows from DATALINES.
+NOTE: Wrote datasetabc (2 rows, 4 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: DATA statsabc
+
+
+NOTE: Read 2 rows from datasetabc.
+NOTE: Wrote statsabc (2 rows, 8 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: PROC PRINT data=statsabc
+
+NOTE: PROC PRINT completed: 2 observations printed, 8 variables
+NOTE: DATA loop
+
+
+NOTE: Wrote loop (20 rows, 1 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: PROC PRINT data=loop
+
+NOTE: PROC PRINT completed: 20 observations printed, 1 variables
+NOTE: DATA array
+
+NOTE: Processing inline DATALINES (3 lines)
+
+NOTE: Read 3 rows from DATALINES.
+NOTE: Wrote array (3 rows, 5 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: PROC PRINT data=array
+
+NOTE: PROC PRINT completed: 3 observations printed, 5 variables
