@@ -1,0 +1,7 @@
+{
+  "bundle": "t003_c4_array_loop_stats",
+  "source_file": "C4.sas",
+  "source_blob_sha": "36bfe815af1666a55c4cd965d547e02c64465af1",
+  "source_commit": "dbe837049c898dadf011cb119961c71b78e887a4",
+  "notes": "Chapter 4: INPUT with informat, SET-based append (combined), row stats (SUM/MEAN/MIN + conditional flag), a DO WHILE loop 5..100, and an ARRAY read. Self-contained inline DATALINES; shipped verbatim with obs=100 autoexec."
+}

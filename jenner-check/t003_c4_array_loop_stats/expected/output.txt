@@ -1,0 +1,89 @@
+                                                        dataset1
+
+  Obs          Name
+    1  Mathew	Bell
+    2  Alok	Jain
+    3  Karen	Tuttle
+    4  Sarah	Boysen
+    5  Issac	Newton
+    6  Niels	Bohr
+    7  Gemma	Wilson
+
+                                                        dataset2
+
+  Obs  service      title
+    1  Wiper    Blades
+    2  Air      Filter
+    3  Fuel     Filter
+    4  Cooling  Blades
+    5  Brake    Blades
+    6  Fuel     Blades
+    7  Trans    Fluid
+    8  Tire     Rotation
+    9  Flat     Repair
+   10  Wheel    Balance
+   11  Wheel    Alignment
+
+                                                        combined
+
+  Obs          Name  service      title
+    1  Mathew	Bell
+    2  Alok	Jain
+    3  Karen	Tuttle
+    4  Sarah	Boysen
+    5  Issac	Newton
+    6  Niels	Bohr
+    7  Gemma	Wilson
+    8                Wiper    Blades
+    9                Air      Filter
+   10                Fuel     Filter
+   11                Cooling  Blades
+   12                Brake    Blades
+   13                Fuel     Blades
+   14                Trans    Fluid
+   15                Tire     Rotation
+   16                Flat     Repair
+   17                Wheel    Balance
+   18                Wheel    Alignment
+
+                                                        combined
+
+
+  Obs  a2IsMin  A1  A2  A3  A4  A_SUM  A_MEAN  A_MIN
+-----  -------  --  --  --  --  -----  ------  -----
+    1  true     21   4  52  11     88      22      4
+    2  false    96  25  42   6    169   42.25      6
+
+                                                     loop 5 to 100
+
+  Obs  count
+    1      5
+    2     10
+    3     15
+    4     20
+    5     25
+    6     30
+    7     35
+    8     40
+    9     45
+   10     50
+   11     55
+   12     60
+   13     65
+   14     70
+   15     75
+   16     80
+   17     85
+   18     90
+   19     95
+   20    100
+
+                                                     loop 5 to 100
+
+
+  Obs  a1  a2  a3  a4  a5
+-----  --  --  --  --  --
+    1   1   2   3   4   5
+    2   6   7   8   9  10
+    3  11  22  33  44  55
+

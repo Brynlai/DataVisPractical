@@ -1,0 +1,24 @@
+                                                   Mobile Phones List
+
+  Obs    BRAND   MODEL  RAM     CHIPSET  PRICE
+    1  SAMSUNG  GALAXY  8    HELLO       213
+    2  XIAOMI   PRO     9    SNAPDRAGON  453
+    3  XIAOMI   REDMI   7    HELLO       541
+    4  SAMSUNG  GALAXY  8    SNAPDRAGON  790
+    5  XIAOMI   PRO     8    SNAPDRAGON  875
+    6  SAMSUNG  REDMI   8    HELLO       554
+
+                                              College Enrollment 2014-2015
+
+  Obs  Student_ID   Last_Name  Initial  Age   Program
+    1  ST348-245   Walton      L.        21  Drafting
+    2  ST348-246   Wilson      R.        19  Science
+    3  ST348-247   Thompson    G.        18  Business
+    4  ST348-248   James       L.        23  Nursing
+    5  ST348-249   Peterson    M.        37  Science
+    6  ST348-250   Graham      J.        20  Arts
+    7  ST348-251   Smith       F.        26  Business
+    8  ST348-252   Nash        S.        22  Arts
+    9  ST348-253   Russell     W.        20  Nursing
+   10  ST348-254   Robitaille  L.        19  Drafting
+
